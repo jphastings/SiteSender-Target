@@ -10,4 +10,4 @@ I want!
 -------
 Its not ready for full-time duty just yet, but if you're brave enough to get this target app running on your own then the online section is already running on [heroku][1]. If you don't already know, [heroku][1]: Best. RoR host. Ever.
 
-	[1]: http://heroku.com ("heroku rails hosting")
+ [1]: http://heroku.com ("heroku rails hosting")
